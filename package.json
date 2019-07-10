@@ -1,0 +1,24 @@
+{
+  "name": "sass-project-starter",
+  "version": "1.0.0",
+  "description": "Sass based project starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://onurpalaz@github.com/onurpalaz/sass-project-starter.git"
+  },
+  "author": "Onur Palaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onurpalaz/sass-project-starter/issues"
+  },
+  "homepage": "https://github.com/onurpalaz/sass-project-starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
